@@ -1,8 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CTargetRaycast.cs">
     <Files>
-      <File FileName="Assets\Scripts\CTargetRaycast.cs" Line="49" Column="38" />
+      <File FileName="Assets\Scripts\CTargetRaycast.cs" Line="61" Column="77" />
       <File FileName="Assets\Scripts\MouseOrbitImproved.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
